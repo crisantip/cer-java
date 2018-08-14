@@ -1,4 +1,4 @@
-package chapter3.equality;
+package cap3.equality;
 
 public class _4ComparisonOperator {
 

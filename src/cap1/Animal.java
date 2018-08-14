@@ -1,4 +1,4 @@
-package chapter1;
+package cap1;
 
 public interface Animal {
 	public default String getName() {

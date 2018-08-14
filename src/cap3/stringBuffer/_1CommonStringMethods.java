@@ -1,4 +1,4 @@
-package chapter3.stringBuffer;
+package cap3.stringBuffer;
 
 /**
  * Prueba de los métodos iguales a la clase String

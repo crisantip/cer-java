@@ -1,4 +1,4 @@
-package chapter1;
+package cap1;
 
 public class Bucle {
 

@@ -1,4 +1,4 @@
-package chapter3.stringBuffer;
+package cap3.stringBuffer;
 
 public class _4Delete {
 	public static void main(String[] args) {
