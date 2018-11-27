@@ -1,4 +1,4 @@
-package array.ejemplo;
+package cap3.array;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author Christian Inapanta
  * @since 23/11/2018
  */
-public class _4ArregloMultidimensional {
+public class _1ArregloMultidimensional {
 
 	public static void main(String[] args) {
 		
