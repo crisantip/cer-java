@@ -1,6 +1,13 @@
 package cap3.review;
 
-public class _1Fish {
+/**
+ * Muestra que al concatener dos int da como resultado un int, el mismo que no
+ * puede almacenarse en un tipo diferente (String)
+ * 
+ * @author Chris
+ * @since 11/12/2018
+ */
+public class _01Fish {
 
 	public static void main(String[] args) {
 		/*

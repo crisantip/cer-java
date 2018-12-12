@@ -1,6 +1,11 @@
 package cap3.review;
 
-public class _2Equality {
+/**
+ * Muestra las diferencias entre igualdad referencial y lógica
+ * @author Chris
+ * @since 11/12/2018
+ */
+public class _02Equality {
 
 	public static void main(String[] args) {
 		String s = "Hello";
