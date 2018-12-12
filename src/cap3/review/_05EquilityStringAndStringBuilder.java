@@ -1,9 +1,17 @@
 package cap3.review;
 
 /**
+ * A. 1
+ * B. 2
+ * C. 12
+ * D. No output is printed.
+ * E. An exception is thrown.
+ * F. The code does not compile.
+ * 
  * Muestra que no se puede validar igualdad referencial con objetos que no son
- * del mismo tipo. por ejemplo: no se puede comparar un String con un
+ * del mismo tipo. por ejemplo: no se *  puede comparar un String con un
  * StringBuilder
+ * 
  * @author Chris
  * @since 11/12/2018
  */

@@ -1,7 +1,15 @@
 package cap3.review;
 
 /**
+ * A. roar roar
+ * B. roar roar!!!
+ * C. roar!!! roar
+ * D. roar!!! roar!!!
+ * E. An exception is thrown.
+ * F. The code does not compile.
+ * 
  * Muestra la inmutabilidad de un String vs la mutabilidad de un StringBuilder
+ * 
  * @author Chris
  * @since 11/12/2018
  */

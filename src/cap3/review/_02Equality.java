@@ -1,7 +1,15 @@
 package cap3.review;
 
 /**
+ * A. one
+ * B. two
+ * C. three
+ * D. four
+ * E. five
+ * F. The code does not compile.
+ * 
  * Muestra las diferencias entre igualdad referencial y lógica
+ * 
  * @author Chris
  * @since 11/12/2018
  */

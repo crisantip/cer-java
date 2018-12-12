@@ -1,6 +1,14 @@
 package cap3.review;
 
 /**
+ * A. 12
+ * B. 123
+ * C. 7
+ * D. 78
+ * E. A blank line.
+ * F. An exception is thrown.
+ * G. The code does not compile.
+ * 
  * Prueba de métodos substring
  * 
  * @author Chris

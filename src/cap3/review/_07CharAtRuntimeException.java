@@ -1,6 +1,13 @@
 package cap3.review;
 
 /**
+ * A. 5
+ * B. 6
+ * C. c
+ * D. d
+ * E. An exception is thrown.
+ * F. The code does not compile.
+ * 
  * Muestra que si en charAt se especifica un índice fuera de rango, da un error
  * en tiempo de ejecución. No da error de compilación.
  * 

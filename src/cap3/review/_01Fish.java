@@ -1,6 +1,14 @@
 package cap3.review;
 
 /**
+ * A. 4 1
+ * B. 41
+ * C. 5
+ * D. 5 tuna
+ * E. 5tuna
+ * F. 51tuna
+ * G. The code does not compile.
+ * 
  * Muestra que al concatener dos int da como resultado un int, el mismo que no
  * puede almacenarse en un tipo diferente (String)
  * 
