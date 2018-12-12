@@ -16,6 +16,6 @@ public class _06Lion {
 		String roar1 = "roar";
 		StringBuilder roar2 = new StringBuilder("roar");
 		new _06Lion().roar(roar1, roar2);
-		System.out.println(roar1 + " " + roar2);
+		System.out.println(roar1 + " " + roar2); // imprime roar roar!!!
 	}
 }

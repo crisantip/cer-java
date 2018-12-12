@@ -1,9 +1,9 @@
 package cap3.review;
 
 /**
- * Muestra los métodos append e insert append - agrega contenido al final de la
- * cadena insert - agrega contenido en un indice especificado, desplazando los
- * elementos existentes al final
+ * Muestra los métodos append e insert 
+ * append - agrega contenido al final de la cadena 
+ * insert - agrega contenido en un indice especificado, desplazando los elementos existentes al final
  * 
  * @author Chris
  * @since 11/12/2018
