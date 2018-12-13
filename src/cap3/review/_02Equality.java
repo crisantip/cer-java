@@ -1,10 +1,10 @@
 package cap3.review;
 
 /**
- * A. one
+ * (A). one
  * B. two
- * C. three
- * D. four
+ * (C). three
+ * (D). four
  * E. five
  * F. The code does not compile.
  * 

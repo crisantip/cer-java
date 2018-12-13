@@ -7,7 +7,7 @@ package cap3.review;
  * D. 5 tuna
  * E. 5tuna
  * F. 51tuna
- * G. The code does not compile.
+ * (G). The code does not compile.
  * 
  * Muestra que al concatener dos int da como resultado un int, el mismo que no
  * puede almacenarse en un tipo diferente (String)

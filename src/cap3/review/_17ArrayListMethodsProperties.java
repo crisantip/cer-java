@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * C. int length = l.length;
  * D. int length = l.length();
  * E. int length = l.size;
- * F. int length = l.size();
+ * (F). int length = l.size();
  * G. None of the above.
  * 
  * Muestra los métodos o propiedades aplicadas a un ArrayList 

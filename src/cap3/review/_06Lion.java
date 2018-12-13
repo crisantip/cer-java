@@ -2,7 +2,7 @@ package cap3.review;
 
 /**
  * A. roar roar
- * B. roar roar!!!
+ * (B). roar roar!!!
  * C. roar!!! roar
  * D. roar!!! roar!!!
  * E. An exception is thrown.

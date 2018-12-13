@@ -6,7 +6,7 @@ package cap3.review;
  * C. 12
  * D. No output is printed.
  * E. An exception is thrown.
- * F. The code does not compile.
+ * (F). The code does not compile.
  * 
  * Muestra que no se puede validar igualdad referencial con objetos que no son
  * del mismo tipo. por ejemplo: no se *  puede comparar un String con un

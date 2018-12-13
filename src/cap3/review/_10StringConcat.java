@@ -6,7 +6,7 @@ package cap3.review;
  * C. Compile error on line 16.
  * D. Compile error on another line.
  * E. ==
- * F. equals
+ * (F). equals
  * G. An exception is thrown.
  * 
  * Muestra que cuando se concatena un String con un valor de cualquier otro

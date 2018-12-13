@@ -6,7 +6,7 @@ package cap3.review;
  * C. rumb4
  * D. rumble4
  * E. An exception is thrown.
- * F. The code does not compile.
+ * (F). The code does not compile.
  * 
  * Muestra que no se puede asignar un string a un stringbuilder 
  * 

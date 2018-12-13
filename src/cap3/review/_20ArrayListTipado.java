@@ -7,7 +7,7 @@ import java.util.List;
  * A. onetwo
  * B. onetwo7
  * C. onetwo followed by an exception
- * D. Compiler error on line 9.
+ * (D). Compiler error on line 9.
  * E. Compiler error on line 10.
  * 
  * Muestra los métodos o propiedades aplicadas a un ArrayList 

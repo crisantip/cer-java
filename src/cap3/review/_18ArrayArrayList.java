@@ -3,11 +3,11 @@ package cap3.review;
 import java.util.ArrayList;
 
 /**
- * A. An array has a fixed size.
+ * (A). An array has a fixed size.
  * B. An ArrayList has a fixed size.
- * C. An array allows multiple dimensions.
- * D. An array is ordered.
- * E. An ArrayList is ordered.
+ * (C). An array allows multiple dimensions.
+ * (D). An array is ordered.
+ * (E). An ArrayList is ordered.
  * F. An array is immutable.
  * G. An ArrayList is immutable.
  * 

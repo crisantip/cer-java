@@ -5,7 +5,7 @@ package cap3.review;
  * B. 2
  * C. 3
  * D. 7
- * E. An exception is thrown.
+ * (E). An exception is thrown.
  * F. The code does not compile.
  * 
  * Muestra que cuando se realiza un substring de un índice hasta menor al índice desde 

@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 /**
  * A. Two arrays with the same content are equal.
- * B. Two ArrayLists with the same content are equal.
- * C. If you call remove(0) using an empty ArrayList object, it will compile successfully.
+ * (B). Two ArrayLists with the same content are equal.
+ * (C). If you call remove(0) using an empty ArrayList object, it will compile successfully.
  * D. If you call remove(0) using an empty ArrayList object, it will run successfully.
  * E. None of the above.
  * 
@@ -33,7 +33,7 @@ public class _19ArrayArrayListEqual {
 		b[2] = "o";
 		b[3] = "r";
 		
-		if (a.equals(b)) //Array no sobreescribe equals por lo tanti usa igualdad de objetos
+		if (a.equals(b)) //Array no sobreescribe equals por lo tanto usa igualdad de objetos
 			System.out.println("Arreglos iguales");
 		
 		
@@ -54,10 +54,10 @@ public class _19ArrayArrayListEqual {
 		d.add("r");
 		
 		if (c.equals(d)) //Sobreescribe equals mismos elementos en el mismo orden
-			System.out.println("ArryList iguales");
+			System.out.println("ArrayList iguales");
 		
 		ArrayList e = new ArrayList();
-		e.remove(0); //Error de compilación java.lang.IndexOutOfBoundsException
+		e.remove(0); //Error en ejecución java.lang.IndexOutOfBoundsException
 		
 	}
 }

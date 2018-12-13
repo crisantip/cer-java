@@ -1,7 +1,7 @@
 package cap3.review;
 
 /**
- * A. 01+89–
+ * (A). 01+89–
  * B. 012+9–
  * C. 012+–9
  * D. 0123456789
@@ -9,7 +9,7 @@ package cap3.review;
  * F. The code does not compile.
  * 
  * Muestra que el delete elimina los elmentos comprendidos desde el índice inicial incluido 
- * hasta el índice final NO incluido y que los métodos se van a aplicando de izquierda a derecha
+ * hasta el índice final NO incluido y que los métodos se van aplicando de izquierda a derecha
  * 
  * @author Katty
  * @since 11/12/2018

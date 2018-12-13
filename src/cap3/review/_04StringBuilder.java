@@ -2,7 +2,7 @@ package cap3.review;
 
 /**
  * A. abbaaccc
- * B. abbaccca
+ * (B). abbaccca
  * C. bbaaaccc
  * D. bbaaccca
  * E. An exception is thrown.

@@ -1,9 +1,9 @@
 package cap3.review;
 
 /**
- * A. puzzle.reverse();
+ * (A). puzzle.reverse();
  * B. puzzle.append("vaJ$").substring(0, 4);
- * C. puzzle.append("vaJ$").delete(0, 3).deleteCharAt(puzzle.length() - 1);
+ * (C). puzzle.append("vaJ$").delete(0, 3).deleteCharAt(puzzle.length() - 1);
  * D. puzzle.append("vaJ$").delete(0, 3).deleteCharAt(puzzle.length());
  * E. None of the above.
  * 
@@ -19,16 +19,18 @@ public class _14StringBuilderReverse {
 		puzzle.reverse(); //Método reverse simple voltea las letras de la palabra
 		System.out.println(puzzle);
 
-		StringBuilder puzzle1 = new StringBuilder("Java");
-		puzzle1.append("vaJ$").substring(0, 4); //??
+		StringBuilder puzzle1 = new StringBuilder("Java"); //Java
+		//NOTAR!!! Substring no modifica al StringBuilder, solo obtiene una subcadena del mismo
+		String otro = puzzle1.append("vaJ$").substring(0, 4); //puzzle1 = JavavaJ$   // otro = Java 
 		System.out.println(puzzle1);
+		System.out.println(otro);
 
-		StringBuilder puzzle2 = new StringBuilder("Java");
-		puzzle2.append("vaJ$").delete(0, 3).deleteCharAt(puzzle2.length() - 1); //??
+		StringBuilder puzzle2 = new StringBuilder("Java"); // Java
+		puzzle2.append("vaJ$").delete(0, 3).deleteCharAt(puzzle2.length() - 1); // JavavaJ$  //avaJ$  //avaJ (Esta si es una respuesta)
 		System.out.println(puzzle2);
 		
 		StringBuilder puzzle3 = new StringBuilder("Java");
-		puzzle3.append("vaJ$").delete(0, 3).deleteCharAt(puzzle3.length());
+		puzzle3.append("vaJ$").delete(0, 3).deleteCharAt(puzzle3.length());  // JavavaJ$  //avaJ$  // Excepcion, no existe indice 5 (length)
 		System.out.println(puzzle3);
 		
 	}

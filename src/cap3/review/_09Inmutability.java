@@ -3,7 +3,7 @@ package cap3.review;
 /**
  * A. 2
  * B. 4
- * C. 8
+ * (C). 8
  * D. 10
  * E. An exception is thrown.
  * F. The code does not compile.
