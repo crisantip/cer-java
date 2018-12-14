@@ -2,12 +2,6 @@ package cap3.review;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.Collections;
-import java.util.List;
 
 /**
  * A. 2018 APRIL 4
@@ -31,5 +25,6 @@ public class _30LocalDateIncorrectDate {
 		
 		System.out.println(date.getYear() + " " + date.getMonth() + " " + date.getDayOfMonth());
 		//java.time.DateTimeException: Invalid value for DayOfMonth (valid values 1 - 28/31): 40
+				
 	}
 }
