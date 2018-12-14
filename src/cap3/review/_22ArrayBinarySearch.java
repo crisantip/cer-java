@@ -25,6 +25,11 @@ public class _22ArrayBinarySearch {
 		int x = 12;
 		int y = Arrays.binarySearch(random, x); //El arreglo debe estar ordenado en contenido sino el resultado es indefinido
 		System.out.println(y);
+
+		int[] random1 = { 6, -4, 6, 7, 12, 0, -10 };
+		int x1 = 12;
+		int y1 = Arrays.binarySearch(random1, x1); //El arreglo debe estar ordenado en contenido sino el resultado es indefinido
+		System.out.println(y1);
 		
 	}
 }

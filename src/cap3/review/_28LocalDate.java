@@ -18,7 +18,7 @@ import java.util.List;
  * E. LocalDate.of(2014, Calendar.JUNE, 21);
  * (F). LocalDate.of(2014, Month.JUNE, 21);
  * 
- * Muestra la igualdad entre listas 
+ * Muestra la creación de fechas
  * 
  * @author Katty
  * @since 12/12/2018

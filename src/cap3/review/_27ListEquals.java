@@ -29,7 +29,7 @@ public class _27ListEquals {
 		
 		if (one == two)				//No aplica igualdad son objetos distintos
 			System.out.println("A");	
-		else if (one.equals(two))	//Aplica igualdad en elementos y orden
+		else if (one.equals(two))	//Aplica igualdad en elementos y orden, ArrayList implementa equals
 			System.out.println("B");
 		else
 			System.out.println("C");

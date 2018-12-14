@@ -24,8 +24,8 @@ public class _21ArrayListMethods {
 		ArrayList<Integer> values = new ArrayList<>();
 		values.add(4);		//Añade el 4 en el índice 0
 		values.add(5);		//Añade el 5 en el índice 1
-		values.set(1, 6);	//Reemplaza el 6 en el índice 1 45 pasa a 46
-		values.remove(0);	//Elimina el elemnto ubicado en el índice 0 es decir el 4 quedando 6
+		values.set(1, 6);	//Reemplaza el 6 en el índice 1; 45 pasa a 46
+		values.remove(0);	//Elimina el elemento ubicado en el índice 0 es decir el 4 quedando 6
 		
 		for (Integer v : values) 
 			System.out.print(v);

@@ -18,6 +18,7 @@ import java.util.List;
  * (F). A runtime exception is thrown.
  * 
  * Muestra error en runtime de una fecha incorrecta
+ * Java valida en compilación errores de sintaxis, más no de data ni semántica
  * 
  * @author Katty
  * @since 12/12/2018
