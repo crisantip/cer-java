@@ -1,4 +1,4 @@
-package cap3.stringBuffer;
+package oca.cap3.stringBuffer;
 
 public class _4Delete {
 	public static void main(String[] args) {

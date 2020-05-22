@@ -12,7 +12,7 @@
  * @since 04/02/2019
  */
 
-package cap5.review;
+package oca.cap5.review;
 
 public class _17ClassAbstract {
 

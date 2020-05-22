@@ -1,4 +1,4 @@
-package cap4.pond.shore;
+package oca.cap4.pond.shore;
 
 public class BirdWatcher {
 

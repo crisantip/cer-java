@@ -1,6 +1,6 @@
-package cap4.pond.swan;
+package oca.cap4.pond.swan;
 
-import cap4.pond.duck.MotherDuck;
+import oca.cap4.pond.duck.MotherDuck;
 
 public class BadCygnet {
 

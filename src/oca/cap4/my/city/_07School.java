@@ -1,6 +1,6 @@
-package cap4.my.city;
+package oca.cap4.my.city;
 
-import cap4.my.school.*;
+import oca.cap4.my.school.*;
 
 public class _07School {
 	public static void main(String[] args) {

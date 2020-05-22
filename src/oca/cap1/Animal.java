@@ -1,4 +1,4 @@
-package cap1;
+package oca.cap1;
 
 public interface Animal {
 	public default String getName() {

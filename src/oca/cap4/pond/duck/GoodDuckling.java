@@ -1,4 +1,4 @@
-package cap4.pond.duck;
+package oca.cap4.pond.duck;
 
 public class GoodDuckling {
 
