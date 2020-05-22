@@ -13,7 +13,7 @@
  * @since 27/01/2019
  */
 
-package oca.cap4.review;
+package cap4.review;
 
 import java.util.function.*;
 

@@ -1,4 +1,4 @@
-package oca.cap1;
+package cap1;
 
 public class Classes {	// Solo una puede ser public y el nombre del archivo debe ser del mismo nombre
 

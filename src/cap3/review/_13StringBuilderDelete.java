@@ -1,4 +1,4 @@
-package oca.cap3.review;
+package cap3.review;
 
 /**
  * A. rum

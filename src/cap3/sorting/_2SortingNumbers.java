@@ -1,4 +1,4 @@
-package oca.cap3.sorting;
+package cap3.sorting;
 
 import java.util.Arrays;
 

@@ -14,7 +14,7 @@
  * @since 21/01/2019
  */
 
-package oca.cap4.review;
+package cap4.review;
 
 public class _22StaticInitializer {
 

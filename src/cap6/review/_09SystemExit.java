@@ -13,7 +13,7 @@
  * @since 13/02/2019
  */
 
-package oca.cap6.review;
+package cap6.review;
 
 public class _09SystemExit {
 	public void start() {

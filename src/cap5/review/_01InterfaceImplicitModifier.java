@@ -14,7 +14,7 @@
  * @since 28/01/2019
  */
 
-package oca.cap5.review;
+package cap5.review;
 
 public interface _01InterfaceImplicitModifier {
 	void metodo();

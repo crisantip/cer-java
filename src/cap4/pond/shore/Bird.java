@@ -1,4 +1,4 @@
-package oca.cap4.pond.shore;
+package cap4.pond.shore;
 
 public class Bird {
 	protected String text = "floating"; // protected access

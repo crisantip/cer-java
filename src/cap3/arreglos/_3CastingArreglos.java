@@ -1,4 +1,4 @@
-package oca.cap3.arreglos;
+package cap3.arreglos;
 
 public class _3CastingArreglos {
 

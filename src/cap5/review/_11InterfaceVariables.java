@@ -14,7 +14,7 @@
  * @since 02/02/2019
  */
 
-package oca.cap5.review;
+package cap5.review;
 
 public interface _11InterfaceVariables {
 	public static final int VARIABLE = 0;

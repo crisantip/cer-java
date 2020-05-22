@@ -1,6 +1,6 @@
-package oca.cap4.pond.swan;
+package cap4.pond.swan;
 
-import oca.cap4.pond.shore.Bird;
+import cap4.pond.shore.Bird;
 
 public class Swan extends Bird { // but subclass of bird
 	public void swim() {

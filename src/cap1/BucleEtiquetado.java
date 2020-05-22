@@ -1,4 +1,4 @@
-package oca.cap1;
+package cap1;
 
 public class BucleEtiquetado {
 

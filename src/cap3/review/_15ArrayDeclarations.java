@@ -1,4 +1,4 @@
-package oca.cap3.review;
+package cap3.review;
 
 /**
  * Cuáles de las siguientes declaraciones de arrays son incorrectas?

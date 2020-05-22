@@ -1,4 +1,4 @@
-package oca.cap3.stringBuffer;
+package cap3.stringBuffer;
 
 /**
  * Ejemplos de delete y deleteCharAt

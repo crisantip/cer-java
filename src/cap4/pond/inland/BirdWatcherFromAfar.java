@@ -1,6 +1,6 @@
-package oca.cap4.pond.inland;
+package cap4.pond.inland;
 
-import oca.cap4.pond.shore.Bird;
+import cap4.pond.shore.Bird;
 
 public class BirdWatcherFromAfar {
 	public void watchBird() {

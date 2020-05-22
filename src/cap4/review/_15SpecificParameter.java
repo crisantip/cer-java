@@ -13,7 +13,7 @@
  * @since 20/01/2019
  */
 
-package oca.cap4.review;
+package cap4.review;
 
 public class _15SpecificParameter {
 	public void print(byte x) {

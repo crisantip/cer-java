@@ -1,4 +1,4 @@
-package oca.cap4.my.rope;
+package cap4.my.rope;
 
 public class _10Rope {
 
