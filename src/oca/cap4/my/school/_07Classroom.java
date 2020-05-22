@@ -1,4 +1,4 @@
-package cap4.my.school;
+package oca.cap4.my.school;
 
 public class _07Classroom {
 	

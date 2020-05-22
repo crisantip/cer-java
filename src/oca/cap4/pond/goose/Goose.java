@@ -1,6 +1,6 @@
-package cap4.pond.goose;
+package oca.cap4.pond.goose;
 
-import cap4.pond.shore.Bird;
+import oca.cap4.pond.shore.Bird;
 
 public class Goose extends Bird {
 	public void helpGooseSwim() {

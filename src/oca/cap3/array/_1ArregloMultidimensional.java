@@ -1,4 +1,4 @@
-package cap3.array;
+package oca.cap3.array;
 
 import java.util.Arrays;
 

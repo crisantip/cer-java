@@ -13,11 +13,11 @@
  * @since 09/01/2019
  */
 
-package cap4.review;
+package oca.cap4.review;
 
-import static cap4.my.rope._10Rope.*;
+import static oca.cap4.my.rope._10Rope.*;
 
-import cap4.my.rope.*;
+import oca.cap4.my.rope.*;
 
 public class _10Initialization {
 	/*

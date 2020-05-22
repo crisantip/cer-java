@@ -1,4 +1,4 @@
-package cap3.strings;
+package oca.cap3.strings;
 
 public class ConcatString {
 

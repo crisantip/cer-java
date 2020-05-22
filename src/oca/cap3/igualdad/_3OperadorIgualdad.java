@@ -1,4 +1,4 @@
-package cap3.igualdad;
+package oca.cap3.igualdad;
 
 public class _3OperadorIgualdad {
 

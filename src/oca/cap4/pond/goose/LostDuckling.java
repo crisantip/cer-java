@@ -1,6 +1,6 @@
-package cap4.pond.goose;
+package oca.cap4.pond.goose;
 
-import cap4.pond.duck.DuckTeacher;
+import oca.cap4.pond.duck.DuckTeacher;
 
 public class LostDuckling {
 	public void swim() {

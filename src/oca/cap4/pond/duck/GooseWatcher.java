@@ -1,6 +1,6 @@
-package cap4.pond.duck;
+package oca.cap4.pond.duck;
 
-import cap4.pond.goose.Goose;
+import oca.cap4.pond.goose.Goose;
 
 public class GooseWatcher {
 	public void watch() {

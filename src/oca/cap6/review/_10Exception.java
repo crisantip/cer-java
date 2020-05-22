@@ -14,7 +14,7 @@
  * @since 13/02/2019
  */
 
-package cap6.review;
+package oca.cap6.review;
 
 public class _10Exception {
 	public String name;

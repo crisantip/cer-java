@@ -1,4 +1,4 @@
-package cap3.arreglos;
+package oca.cap3.arreglos;
 
 /**
  * Declaración de arreglos con tipos primitivos

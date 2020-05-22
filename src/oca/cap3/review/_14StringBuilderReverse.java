@@ -1,4 +1,4 @@
-package cap3.review;
+package oca.cap3.review;
 
 /**
  * (A). puzzle.reverse();
