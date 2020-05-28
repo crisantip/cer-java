@@ -1,4 +1,4 @@
-package cap1.nestedclasses;
+package cap1.classes.nested.inner.member;
 
 /*
  * Las clases anidadas pueden tener nombres de variables iguales, vea 'x' en el siguiente ejemplo:

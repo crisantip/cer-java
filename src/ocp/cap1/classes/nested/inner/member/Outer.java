@@ -1,4 +1,4 @@
-package cap1.nestedclasses;
+package cap1.classes.nested.inner.member;
 
 /**
  * Usa una inner class para imprimir "Hi" tres veces

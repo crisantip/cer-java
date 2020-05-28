@@ -1,4 +1,4 @@
-package cap1.nestedclasses;
+package cap1.classes.nested.inner.member;
 
 public class CaseOfThePrivateInterface {
 
